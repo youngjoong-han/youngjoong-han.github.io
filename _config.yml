@@ -31,7 +31,7 @@ github_username:  youngjoong-han
 
 # Build settings
 remote_theme: fongandrew/hydeout
-theme: jekyll-theme-hydeout
+#theme: jekyll-theme-hydeout
 # theme: minima
 plugins:
   - jekyll-feed
